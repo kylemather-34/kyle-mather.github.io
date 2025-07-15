@@ -1,4 +1,7 @@
-import { BrowserRouter } from "react-router-dom"
+import { BrowserRouter } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
+import { Home } from "@/pages/Home";
+import { NotFound } from "@/pages/NotFound";
 
 
 
