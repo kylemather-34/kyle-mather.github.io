@@ -1,4 +1,4 @@
-import { Mail, Phone, MapPin, Instagram, XLogo } from "lucide-react";
+import { Mail, Phone, MapPin, Instagram, Twitter } from "lucide-react";
 
 const linkedinLogo = "/LinkedIn.png";
 
@@ -57,7 +57,7 @@ export const ContactSection = () => {
                             <Instagram className='h-8 w-8 color-primary hover:opacity-80 transition-opacity' />
                         </a>
                         <a href='https://www.x.com/kylemather11' target='_blank' rel='noopener noreferrer'>
-                            <XLogo className='h-8 w-8 color-primary hover:opacity-80 transition-opacity' />
+                            <Twitter className='h-8 w-8 color-primary hover:opacity-80 transition-opacity' />
                         </a>
                     </div>
                 </div>
